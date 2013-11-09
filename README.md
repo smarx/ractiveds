@@ -11,7 +11,7 @@ Setup
 To use the Ractive Datastore library, download `ractivedatastore.js` and include it in your HTML after both the Ractive.js and Dropbox Datastore API libraries:
 
 ```html
-<script src="https://www.dropbox.com/static/api/1/dropbox-datastores-0.1.0-b3.js"></script>
+<script src="https://www.dropbox.com/static/api/dropbox-datastores-1.0-latest.js"></script>
 <script src="ractive.js"></script>
 <script src="ractivedatastore.js"></script>
 ```
